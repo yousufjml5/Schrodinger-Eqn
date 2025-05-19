@@ -16,3 +16,6 @@ The solver not only computes numerical results but also automatically generates 
 
 This tool is particularly valuable for theoretical physicists and computational researchers focusing on quarkonia studies and the quark-gluon plasma. Its modular design and robust output handling make it a powerful addition to the toolkit of anyone working in the field of high-energy nuclear physics.
 
+
+For discussion contact: yousufjml5@gmail.com
+
